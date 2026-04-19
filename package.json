@@ -1,4 +1,5 @@
 {
+  "name": "nitrojs-express",
   "type": "module",
   "scripts": {
     "build": "nitro build",
