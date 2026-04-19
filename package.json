@@ -1,5 +1,5 @@
 {
-  "name": "nitrojs-express-3",
+  "name": "nitrojs-express-4",
   "type": "module",
   "scripts": {
     "build": "nitro build",
