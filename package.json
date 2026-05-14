@@ -2,6 +2,7 @@
   "name": "nitrojs-express-9",
   "type": "module",
   "scripts": {
+    "hello": "world",
     "build": "nitro build",
     "dev": "nitro dev"
   },
